@@ -128,7 +128,7 @@ input::-webkit-inner-spin-button {
 .success{
     text-align: center;
     margin-top: 100px;
-    width: 380px;
+    width: 330px;
     display: none;
 }
 .success>h1{
